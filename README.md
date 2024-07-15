@@ -11,12 +11,6 @@ Live version: https://insin.github.io/react-hn
 
 ## Features
 
-* Supports display of all item types:
-  [stories](https://insin.github.io/react-hn/#/story/8863),
-  [jobs](https://insin.github.io/react-hn/#/job/8426937),
-  [polls](https://insin.github.io/react-hn/#/poll/126809) and
-  [comments](https://insin.github.io/react-hn/#/comment/8054455)
-* Basic [user profiles](https://insin.github.io/react-hn/#/user/patio11)
 * Collapsible comment threads, with child counts
 * "Realtime" updates (free via Firebase!)
 * Last visit details for stories are cached in `localStorage`
@@ -40,8 +34,6 @@ Live version: https://insin.github.io/react-hn
   * show deleted - show comments flagged as deleted in threads
 * Delayed comment detection - so tense! Who will it be? What will they say?
 
-[Feature requests are welcome!](https://github.com/insin/react-hn/issues/new)
-
 ## Building
 
 Install dependencies:
@@ -56,5 +48,3 @@ npm install
 * `npm run build` - build into the `dist/` directory
 * `npm run lint` - lint `src/`
 * `npm run lint:fix` - lint `src/` and auto-fix issues where possible
-
-## MIT Licensed
