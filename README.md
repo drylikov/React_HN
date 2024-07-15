@@ -5,10 +5,6 @@ A [React](http://facebook.github.io/react) &
 [Hacker News](https://news.ycombinator.com) using its
 [Firebase API](https://github.com/HackerNews/API).
 
-[![react-hn screenshot](https://github.com/insin/react-hn/raw/master/screenshot.png "New comment highlighting in react-hn")](https://insin.github.io/react-hn)
-
-Live version: https://insin.github.io/react-hn
-
 ## Features
 
 * Collapsible comment threads, with child counts
